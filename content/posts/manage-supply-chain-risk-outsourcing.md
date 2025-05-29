@@ -112,4 +112,4 @@ Here’s a quick-start checklist:
 
 Outsourcing is here to stay. AI is accelerating it. And the supply chain is now a **frontline battlefield** in cybersecurity.
 
-But with the right mindset, tools, and practices, you can turn your supply chain from a liability into a strength.
+But with the right culture, tools, and practices, you can turn your supply chain from a liability into a strength.

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Privacy on Meditations on Cloud Security Architecture</title>
+    <link>https://kristophmatthews.com/tags/privacy/</link>
+    <description>Recent content in Privacy on Meditations on Cloud Security Architecture</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2025 Kristoph Matthews</copyright>
+    <lastBuildDate>Thu, 29 May 2025 08:16:40 -0400</lastBuildDate>
+    <atom:link href="https://kristophmatthews.com/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Everybody&#39;s Outsourcin&#39;: Manage IT supply chain risk</title>
+      <link>https://kristophmatthews.com/posts/manage-supply-chain-risk-outsourcing/</link>
+      <pubDate>Thu, 29 May 2025 08:16:40 -0400</pubDate>
+      <guid>https://kristophmatthews.com/posts/manage-supply-chain-risk-outsourcing/</guid>
+      <description>&lt;p&gt;In today’s reality, &lt;strong&gt;outsourcing isn’t just a trend—it’s the norm&lt;/strong&gt;. From cloud services to code libraries, from hardware manufacturing to AI model training, organizations are increasingly relying on third parties to perform work, handle data, and provide services as fundamental as infrastructure and as high level as data analysis.&lt;/p&gt;&#xA;&lt;p&gt;But here’s the kicker: &lt;strong&gt;every link in your supply chain is a potential attack vector&lt;/strong&gt;. And with the rise of AI, automation, and globalized tech ecosystems, the risks are multiplying faster than ever.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
