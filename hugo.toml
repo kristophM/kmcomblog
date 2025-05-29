@@ -40,7 +40,3 @@ copyright = '© 2025 Kristoph Matthews'
     weight = 3
 
   [[menu.main]]
-[deployment]
-  [[deployment.targets]]
-    name = 'production'
-    url = 's3://kristophmatthews.com?region=us-east-2'
