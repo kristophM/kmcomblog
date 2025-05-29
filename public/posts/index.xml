@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Meditations on Cloud Security Architecture</title>
-    <link>https://kristophmatthews.com/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Meditations on Cloud Security Architecture</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© 2025 Kristoph Matthews</copyright>
     <lastBuildDate>Thu, 29 May 2025 08:16:40 -0400</lastBuildDate>
-    <atom:link href="https://kristophmatthews.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Everybody&#39;s Outsourcin&#39;: Manage IT supply chain risk</title>
-      <link>https://kristophmatthews.com/posts/manage-supply-chain-risk-outsourcing/</link>
+      <link>http://localhost:1313/posts/manage-supply-chain-risk-outsourcing/</link>
       <pubDate>Thu, 29 May 2025 08:16:40 -0400</pubDate>
-      <guid>https://kristophmatthews.com/posts/manage-supply-chain-risk-outsourcing/</guid>
+      <guid>http://localhost:1313/posts/manage-supply-chain-risk-outsourcing/</guid>
       <description>&lt;p&gt;In today’s reality, &lt;strong&gt;outsourcing isn’t just a trend—it’s the norm&lt;/strong&gt;. From cloud services to code libraries, from hardware manufacturing to AI model training, organizations are increasingly relying on third parties to perform work, handle data, and provide services as fundamental as infrastructure and as high level as data analysis.&lt;/p&gt;&#xA;&lt;p&gt;But here’s the kicker: &lt;strong&gt;every link in your supply chain is a potential attack vector&lt;/strong&gt;. And with the rise of AI, automation, and globalized tech ecosystems, the risks are multiplying faster than ever.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Threat Modelling: How to make PASTA in Stride</title>
-      <link>https://kristophmatthews.com/posts/thread-modeling-frameworks/</link>
+      <link>http://localhost:1313/posts/thread-modeling-frameworks/</link>
       <pubDate>Thu, 29 May 2025 07:24:47 -0400</pubDate>
-      <guid>https://kristophmatthews.com/posts/thread-modeling-frameworks/</guid>
+      <guid>http://localhost:1313/posts/thread-modeling-frameworks/</guid>
       <description>&lt;h2 id=&#34;-what-is-threat-modelling-and-why-should-you-care&#34;&gt;🍝 What Is Threat Modelling (and Why Should You Care)?&lt;/h2&gt;&#xA;&lt;p&gt;Imagine you&amp;rsquo;re building a castle. You’ve got walls, a moat, and maybe even a dragon. But how do you know where the weak spots are? That’s where &lt;strong&gt;threat modelling&lt;/strong&gt; comes in.&lt;/p&gt;&#xA;&lt;p&gt;In the world of secure software and IT systems, threat modelling is your blueprint for identifying potential threats &lt;em&gt;before&lt;/em&gt; the bad guys do (or before good guys unintentionally create them). It’s a structured way to ask:&lt;/p&gt;</description>
     </item>
   </channel>
