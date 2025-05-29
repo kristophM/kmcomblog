@@ -5,8 +5,6 @@ title = 'Threat Modelling: How to make PASTA in Stride'
 tags = ["threat modelling"]
 +++
 
-# Threat Modelling: How to Make PASTA in STRIDE
-
 ## 🍝 What Is Threat Modelling (and Why Should You Care)?
 
 Imagine you're building a castle. You’ve got walls, a moat, and maybe even a dragon. But how do you know where the weak spots are? That’s where **threat modelling** comes in.

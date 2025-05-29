@@ -21,7 +21,7 @@
       <link>https://kristophmatthews.com/posts/thread-modeling-frameworks/</link>
       <pubDate>Thu, 29 May 2025 07:24:47 -0400</pubDate>
       <guid>https://kristophmatthews.com/posts/thread-modeling-frameworks/</guid>
-      <description>&lt;h1 id=&#34;threat-modelling-how-to-make-pasta-in-stride&#34;&gt;Threat Modelling: How to Make PASTA in STRIDE&lt;/h1&gt;&#xA;&lt;h2 id=&#34;-what-is-threat-modelling-and-why-should-you-care&#34;&gt;🍝 What Is Threat Modelling (and Why Should You Care)?&lt;/h2&gt;&#xA;&lt;p&gt;Imagine you&amp;rsquo;re building a castle. You’ve got walls, a moat, and maybe even a dragon. But how do you know where the weak spots are? That’s where &lt;strong&gt;threat modelling&lt;/strong&gt; comes in.&lt;/p&gt;&#xA;&lt;p&gt;In the world of secure software and IT systems, threat modelling is your blueprint for identifying potential threats &lt;em&gt;before&lt;/em&gt; the bad guys do (or before good guys unintentionally create them). It’s a structured way to ask:&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;-what-is-threat-modelling-and-why-should-you-care&#34;&gt;🍝 What Is Threat Modelling (and Why Should You Care)?&lt;/h2&gt;&#xA;&lt;p&gt;Imagine you&amp;rsquo;re building a castle. You’ve got walls, a moat, and maybe even a dragon. But how do you know where the weak spots are? That’s where &lt;strong&gt;threat modelling&lt;/strong&gt; comes in.&lt;/p&gt;&#xA;&lt;p&gt;In the world of secure software and IT systems, threat modelling is your blueprint for identifying potential threats &lt;em&gt;before&lt;/em&gt; the bad guys do (or before good guys unintentionally create them). It’s a structured way to ask:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
