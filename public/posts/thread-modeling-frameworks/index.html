@@ -20,14 +20,14 @@
   />
 
   
-  <title>Threat Modeling: How to make PASTA in Stride - Meditations on Cloud Security Architecture</title>
+  <title>Threat Modelling: How to make PASTA in Stride - Meditations on Cloud Security Architecture</title>
 
   
   <meta name="theme-color" />
 
-  <meta name="description" content="Introduction
-This is bold text, and this is emphasized text.
-Visit the Hugo website!" />
+  <meta name="description" content="🍝 What Is Threat Modelling (and Why Should You Care)?
+Imagine you&rsquo;re building a castle. You’ve got walls, a moat, and maybe even a dragon. But how do you know where the weak spots are? That’s where threat modelling comes in.
+In the world of secure software and IT systems, threat modelling is your blueprint for identifying potential threats before the bad guys do (or before good guys unintentionally create them). It’s a structured way to ask:" />
   <meta name="author" content="Kristoph Matthews {•̃_•̃}" /><link rel="preload stylesheet" as="style" href="https://kristophmatthews.com/main.min.css" />
 
   
@@ -68,26 +68,28 @@ Visit the Hugo website!" />
           gtag('config', 'G-V85VTFFCTM');
         }
       </script>
-  <meta itemprop="name" content="Threat Modeling: How to make PASTA in Stride">
-  <meta itemprop="description" content="Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!">
+  <meta itemprop="name" content="Threat Modelling: How to make PASTA in Stride">
+  <meta itemprop="description" content="🍝 What Is Threat Modelling (and Why Should You Care)? Imagine you’re building a castle. You’ve got walls, a moat, and maybe even a dragon. But how do you know where the weak spots are? That’s where threat modelling comes in.
+In the world of secure software and IT systems, threat modelling is your blueprint for identifying potential threats before the bad guys do (or before good guys unintentionally create them). It’s a structured way to ask:">
   <meta itemprop="datePublished" content="2025-05-29T07:24:47-04:00">
   <meta itemprop="dateModified" content="2025-05-29T07:24:47-04:00">
-  <meta itemprop="wordCount" content="14"><meta property="og:url" content="https://kristophmatthews.com/posts/thread-modeling-frameworks/">
+  <meta itemprop="wordCount" content="848">
+  <meta itemprop="keywords" content="Threat Modelling"><meta property="og:url" content="https://kristophmatthews.com/posts/thread-modeling-frameworks/">
   <meta property="og:site_name" content="Meditations on Cloud Security Architecture">
-  <meta property="og:title" content="Threat Modeling: How to make PASTA in Stride">
-  <meta property="og:description" content="Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!">
+  <meta property="og:title" content="Threat Modelling: How to make PASTA in Stride">
+  <meta property="og:description" content="🍝 What Is Threat Modelling (and Why Should You Care)? Imagine you’re building a castle. You’ve got walls, a moat, and maybe even a dragon. But how do you know where the weak spots are? That’s where threat modelling comes in.
+In the world of secure software and IT systems, threat modelling is your blueprint for identifying potential threats before the bad guys do (or before good guys unintentionally create them). It’s a structured way to ask:">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
     <meta property="article:published_time" content="2025-05-29T07:24:47-04:00">
     <meta property="article:modified_time" content="2025-05-29T07:24:47-04:00">
+    <meta property="article:tag" content="Threat Modelling">
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Threat Modeling: How to make PASTA in Stride">
-  <meta name="twitter:description" content="Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!">
+  <meta name="twitter:title" content="Threat Modelling: How to make PASTA in Stride">
+  <meta name="twitter:description" content="🍝 What Is Threat Modelling (and Why Should You Care)? Imagine you’re building a castle. You’ve got walls, a moat, and maybe even a dragon. But how do you know where the weak spots are? That’s where threat modelling comes in.
+In the world of secure software and IT systems, threat modelling is your blueprint for identifying potential threats before the bad guys do (or before good guys unintentionally create them). It’s a structured way to ask:">
 
   <link rel="canonical" href="https://kristophmatthews.com/posts/thread-modeling-frameworks/" />
 </head>
@@ -202,14 +204,107 @@ Visit the Hugo website!">
       class="prose prose-neutral dark:prose-invert relative mx-auto min-h-[calc(100vh-9rem)] max-w-(--w) px-8 pt-14 pb-16"
     ><article>
   <header class="mb-14">
-    <h1 class="my-0! pb-2.5">Threat Modeling: How to make PASTA in Stride</h1><div class="text-xs antialiased opacity-60"><time>May 29, 2025</time></div></header>
+    <h1 class="my-0! pb-2.5">Threat Modelling: How to make PASTA in Stride</h1><div class="text-xs antialiased opacity-60"><time>May 29, 2025</time></div></header>
 
-  <section><h2 id="introduction">Introduction</h2>
-<p>This is <strong>bold</strong> text, and this is <em>emphasized</em> text.</p>
-<p>Visit the <a href="https://gohugo.io">Hugo</a> website!</p>
+  <section><h2 id="-what-is-threat-modelling-and-why-should-you-care">🍝 What Is Threat Modelling (and Why Should You Care)?</h2>
+<p>Imagine you&rsquo;re building a castle. You’ve got walls, a moat, and maybe even a dragon. But how do you know where the weak spots are? That’s where <strong>threat modelling</strong> comes in.</p>
+<p>In the world of secure software and IT systems, threat modelling is your blueprint for identifying potential threats <em>before</em> the bad guys do (or before good guys unintentionally create them). It’s a structured way to ask:</p>
+<ul>
+<li>What are we building?</li>
+<li>What could go wrong?</li>
+<li>What are we doing about it?</li>
+</ul>
+<p>It’s not just a checkbox for compliance—it’s your early warning system, your security strategy, and your best friend when things get complicated.</p>
+<hr>
+<h2 id="-when-should-you-do-threat-modelling">⏰ When Should You Do Threat Modelling?</h2>
+<p>Short answer: <strong>early and (reasonably)often</strong>.</p>
+<p>Long answer: Ideally, you start during the design phase—before a single line of code is written. But it’s never too late. Whether you’re launching a new feature, integrating a third-party service, or just doing a security review (for many places this is done quarterly), threat modelling helps you stay ahead of the curve.</p>
+<hr>
+<h2 id="-frameworks-galore-pasta-stride-and-dread">🧩 Frameworks Galore: PASTA, STRIDE, and DREAD</h2>
+<p>Okay, time to enter acronym hell, something that engineers and security professionals alike dread, yet somehow insist on continuing to use?! The good news is that you don&rsquo;t need to do all of these all the time. I&rsquo;ll show you how to be selective and use the right framework for the right job. Bear with me, it&rsquo;ll be over soon.</p>
+<h3 id="-pasta-process-for-attack-simulation-and-threat-analysis">🥫 PASTA: Process for Attack Simulation and Threat Analysis</h3>
+<p>Think of PASTA as the gourmet, seven-layer lasagna of threat modelling. It’s a <strong>risk-centric</strong> framework that consists of the following steps:</p>
+<ol>
+<li>Define business objectives</li>
+<li>Define the technical scope</li>
+<li>Decompose the application</li>
+<li>Analyze threats</li>
+<li>Analyze vulnerabilities</li>
+<li>Model attacks</li>
+<li>Assess risk and impact</li>
+</ol>
+<p><strong>Use PASTA when</strong>:<br>
+You need a deep-dive, business-aligned threat model—especially for complex systems or high-risk environments.</p>
+<hr>
+<h3 id="-stride-spoofing-tampering-repudiation-information-disclosure-denial-of-service-elevation-of-privilege">🏃 STRIDE: Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privilege</h3>
+<p>STRIDE is your quick-and-dirty checklist for identifying threats based on system components. It’s <strong>developer-friendly</strong> (no surprise, coming from Microsoft) and maps well to data flow diagrams.</p>
+<p><strong>Use STRIDE when</strong>:<br>
+You want a fast, structured way to brainstorm threats during design or code reviews. In a lot of my work, this has been the bread and butter (ok, too many food analogies here) of thread modelling.</p>
+<hr>
+<h3 id="-dread-damage-reproducibility-exploitability-affected-users-discoverability">😱 DREAD: Damage, Reproducibility, Exploitability, Affected Users, Discoverability</h3>
+<p>DREAD is a scoring system to <strong>prioritize</strong> threats based on risk. It’s like Yelp for vulnerabilities—except instead of stars, you’re rating how damaging a threat could be.</p>
+<p><strong>Use DREAD when</strong>:<br>
+You’ve identified threats already and need to rank them to decide what to fix first.</p>
+<hr>
+<h2 id="-real-world-example-enterprise-document-management-system-dms">🧪 Real-World Example: Enterprise Document Management System (DMS)</h2>
+<p>Let’s say your company is building an internal <strong>Document Management System</strong> for storing, sharing, and collaborating on sensitive documents—think contracts, financial reports, and HR files. It integrates with Active Directory, supports role-based access, includes audit logging, and strong encryption at rest (more on this some other day).</p>
+<p>Here’s how each framework might come into play:</p>
+<h3 id="-using-stride">🏃 Using STRIDE</h3>
+<p>You create a data flow diagram:</p>
+<ul>
+<li>Users authenticate via SSO</li>
+<li>Upload/download documents</li>
+<li>Share documents with colleagues</li>
+<li>Admins manage permissions</li>
+</ul>
+<p>Now apply STRIDE:</p>
+<ul>
+<li><strong>Spoofing</strong>: Can someone impersonate a user or admin?</li>
+<li><strong>Tampering</strong>: Can someone alter documents or audit logs?</li>
+<li><strong>Repudiation</strong>: Can users deny uploading or modifying a file?</li>
+<li><strong>Information Disclosure</strong>: Are confidential documents exposed to unauthorized users?</li>
+<li><strong>Denial of Service</strong>: Can someone flood the system with large uploads or requests?</li>
+<li><strong>Elevation of Privilege</strong>: Can a regular user gain admin access?</li>
+</ul>
+<p>They shouldn&rsquo;t be able to do any of these.</p>
+<hr>
+<h3 id="-using-pasta">🍝 Using PASTA</h3>
+<p>You go deeper:</p>
+<ul>
+<li><strong>Business objectives</strong>: Ensure secure, compliant document storage and collaboration</li>
+<li><strong>Technical scope</strong>: Web app, backend API, cloud storage, SSO integration</li>
+<li><strong>Threats</strong>: Insider threats, unauthorized access, data leakage, ransomware</li>
+<li><strong>Attack simulation</strong>: A compromised user account uploads malware or exfiltrates sensitive files</li>
+<li><strong>Risk assessment</strong>: High impact on compliance, legal exposure, and operational continuity
+PASTA helps you align security with business risk and simulate real-world attack paths.</li>
+</ul>
+<hr>
+<h3 id="-using-dread">🔥 Using DREAD</h3>
+<p>You’ve identified several threats:</p>
+<ul>
+<li>Insider data exfiltration</li>
+<li>Compromised admin account</li>
+<li>Misconfigured access controls</li>
+</ul>
+<p>Now you score them:</p>
+<ul>
+<li><strong>Damage</strong>: Could this lead to regulatory fines or data breaches?</li>
+<li><strong>Reproducibility</strong>: Can the attack be repeated easily?</li>
+<li><strong>Exploitability</strong>: How hard is it to pull off?</li>
+<li><strong>Affected Users</strong>: Is it one department or the whole company?</li>
+<li><strong>Discoverability</strong>: Would an attacker easily find this vulnerability</li>
+</ul>
+<hr>
+<h2 id="-final-thoughts">📝 Final Thoughts</h2>
+<p>Admittedly, I&rsquo;ve painted a picture of successively applying each and all of these frameworks. That was more to show how they all fit together and not a signal to use all of these, all the time. Rather, you&rsquo;ll want to use the right tool for the right job. I&rsquo;ve found teams that I&rsquo;ve worked on to often use the simpler models for the &ldquo;bread and butter&rdquo; designs and features, and a more comprehensive approach like the above for more complex and high risk/complexity designs, especially when there&rsquo;s a lot at stake.</p>
+<p>Now go make some PASTA! (Don&rsquo;t ask me why such a delightful food should be the symbol of intense risk-focused thread modelling, but it is :).</p>
 </section>
 
-  <nav
+  <footer class="mt-12 flex flex-wrap"><a
+      class="mb-1.5 rounded-lg bg-black/[3%] px-5 py-1 no-underline hover:bg-black/[6%] ltr:mr-1.5 rtl:ml-1.5 dark:bg-white/[8%] dark:hover:bg-white/[12%]"
+      href="https://kristophmatthews.com/tags/threat-modelling"
+      >threat modelling</a
+    ></footer><nav
     class="mt-24 flex overflow-hidden rounded-xl bg-black/[3%] text-lg leading-[1.2]! *:flex *:w-1/2 *:items-center *:p-5 *:font-medium *:no-underline dark:bg-white/[8%] [&>*:hover]:bg-black/[2%] dark:[&>*:hover]:bg-white/[3%]"
   ><a class="ltr:pr-3 rtl:pl-3" href="https://kristophmatthews.com/posts/manage-supply-chain-risk-outsourcing/"
       ><span class="ltr:mr-1.5 rtl:ml-1.5">←</span><span>Everybody&#39;s Outsourcin&#39;: Manage IT supply chain risk</span></a
