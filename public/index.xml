@@ -1,11 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Meditations on Cloud Security Architecture</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Meditations on Cloud Security Architecture</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <copyright>© 2025 Kristoph Matthews</copyright>
+    <lastBuildDate>Thu, 29 May 2025 08:16:40 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Everybody&#39;s Outsourcin&#39;: Manage IT supply chain risk</title>
+      <link>http://localhost:1313/posts/manage-supply-chain-risk-outsourcing/</link>
+      <pubDate>Thu, 29 May 2025 08:16:40 -0400</pubDate>
+      <guid>http://localhost:1313/posts/manage-supply-chain-risk-outsourcing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Thu, 29 May 2025 08:03:56 -0400</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m always happy to chat about new opportunities, consulting, ideas, or just have a coffee and chat with great people! Here&amp;rsquo;s how to get in touch:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:k@kristophmatthews.com&#34;&gt;k (at) kristophmatthews.com&lt;/a&gt; &lt;em&gt;(Definitely put &amp;ldquo;Contact from website&amp;rdquo; or something like that in the subject line so I know you&amp;rsquo;re (probably) not a bot!)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;LinkedIn: &lt;a href=&#34;https://www.linkedin.com/in/kristophermatthews/&#34;&gt;My LinkedIn Profile&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Carrier pigeon&lt;/li&gt;&#xA;&lt;li&gt;Smoke signals&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Work With Me</title>
+      <link>http://localhost:1313/work-with-me/</link>
+      <pubDate>Thu, 29 May 2025 08:03:19 -0400</pubDate>
+      <guid>http://localhost:1313/work-with-me/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m located in the New York City and upstate NY area and am available for travel/remote enagements.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m currently available for new consulting projects, work, collaborations, trainings, and speaking engagements!&#xA;If you like my style, opinionated communications, and practical capabilities, let&amp;rsquo;s talk!&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/contact&#34;&gt;Here&amp;rsquo;s&lt;/a&gt; how to get in touch&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 29 May 2025 08:00:15 -0400</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/kristoph-full-shot-small.jpg&#34; alt=&#34;Kristoph Matthews&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Me thinking about the latest hyped AI technology!&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a cloud/software architect and engineer with a focus on security. I&amp;rsquo;ve worked for over 15 years in tech, starting from the hardware side of Silicon Valley to building software orgs from the ground up in a wide range of industries/tech (SaaS, crypto, logistics, mobile, e-commerce, defence, big-data, gen AI/ML, etc.). I&amp;rsquo;ve held roles from engineer to CTO and have seen the good, bad, and the ugly of building technology systems and orgs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Threat Modeling: How to make PASTA in Stride</title>
+      <link>http://localhost:1313/posts/thread-modeling-frameworks/</link>
+      <pubDate>Thu, 29 May 2025 07:24:47 -0400</pubDate>
+      <guid>http://localhost:1313/posts/thread-modeling-frameworks/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

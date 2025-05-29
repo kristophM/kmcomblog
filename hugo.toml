@@ -1,4 +1,43 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://kristophmatthews.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Meditations on Cloud Security Architecture'
 theme = 'hugo-paper'
+
+googleAnalytics = 'G-V85VTFFCTM'
+copyright = '© 2025 Kristoph Matthews'
+
+[params]
+  author = 'Kristoph Matthews'
+  description = 'Meditations on Cloud Security Architecture'
+  keywords = ['cloud', 'security', 'architecture']
+  themeColor = '#000000'
+
+  rss = true
+
+  avatar = 'k@kristophmatthews.com'
+  name = 'Kristoph Matthews {•̃_•̃}'
+  bio = 'My stream of consciousness on cloud and software architecture with a focus on security for CISOs, CIOs, DevSecOps leaders, and software engineering managers.'
+  #bio = 'I design and build software and cloud architecture with a focus on security.'
+
+  # Social
+  linkedin = 'kristophermatthews'
+  # github = 'kristophM'
+
+[menu]
+  [[menu.main]]
+    name = 'About Me'
+    url = '/about'
+    weight = 1
+
+  [[menu.main]]
+    name = 'Work With Me'
+    url = '/work-with-me'
+    weight = 2
+
+  [[menu.main]]
+    name = 'Contact'
+    url = '/contact'
+    weight = 3
+
+  [[menu.main]]
+  
