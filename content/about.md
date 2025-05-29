@@ -59,7 +59,7 @@ Check out my [LinkedIn](https://www.linkedin.com/in/kristophermatthews/) for mor
 * Designing high performance, scalable, and resilient systems
 * Keeping costs lean and mean
 * Clear communication with no bullshit and no ego
-* Working with people who care about what they're building!
+* Working with people who care about what they're building and have at least some sense of humour!
 
 ## How to work with me
 

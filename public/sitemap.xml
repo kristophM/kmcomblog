@@ -2,29 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/manage-supply-chain-risk-outsourcing/</loc>
+    <loc>https://kristophmatthews.com/posts/manage-supply-chain-risk-outsourcing/</loc>
     <lastmod>2025-05-29T08:16:40-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://kristophmatthews.com/</loc>
     <lastmod>2025-05-29T08:16:40-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://kristophmatthews.com/tags/outsourcing/</loc>
     <lastmod>2025-05-29T08:16:40-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://kristophmatthews.com/posts/</loc>
+    <lastmod>2025-05-29T08:16:40-04:00</lastmod>
+  </url><url>
+    <loc>https://kristophmatthews.com/tags/privacy/</loc>
+    <lastmod>2025-05-29T08:16:40-04:00</lastmod>
+  </url><url>
+    <loc>https://kristophmatthews.com/tags/scrm/</loc>
+    <lastmod>2025-05-29T08:16:40-04:00</lastmod>
+  </url><url>
+    <loc>https://kristophmatthews.com/tags/security/</loc>
+    <lastmod>2025-05-29T08:16:40-04:00</lastmod>
+  </url><url>
+    <loc>https://kristophmatthews.com/tags/supply-chain-risk-management/</loc>
+    <lastmod>2025-05-29T08:16:40-04:00</lastmod>
+  </url><url>
+    <loc>https://kristophmatthews.com/tags/</loc>
+    <lastmod>2025-05-29T08:16:40-04:00</lastmod>
+  </url><url>
+    <loc>https://kristophmatthews.com/contact/</loc>
     <lastmod>2025-05-29T08:03:56-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/work-with-me/</loc>
+    <loc>https://kristophmatthews.com/work-with-me/</loc>
     <lastmod>2025-05-29T08:03:19-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://kristophmatthews.com/about/</loc>
     <lastmod>2025-05-29T08:00:15-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/thread-modeling-frameworks/</loc>
+    <loc>https://kristophmatthews.com/posts/thread-modeling-frameworks/</loc>
     <lastmod>2025-05-29T07:24:47-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://kristophmatthews.com/categories/</loc>
   </url>
 </urlset>
