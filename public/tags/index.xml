@@ -7,42 +7,6 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© 2025 Kristoph Matthews</copyright>
-    <lastBuildDate>Thu, 29 May 2025 08:16:40 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Outsourcing</title>
-      <link>http://localhost:1313/tags/outsourcing/</link>
-      <pubDate>Thu, 29 May 2025 08:16:40 -0400</pubDate>
-      <guid>http://localhost:1313/tags/outsourcing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Privacy</title>
-      <link>http://localhost:1313/tags/privacy/</link>
-      <pubDate>Thu, 29 May 2025 08:16:40 -0400</pubDate>
-      <guid>http://localhost:1313/tags/privacy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Scrm</title>
-      <link>http://localhost:1313/tags/scrm/</link>
-      <pubDate>Thu, 29 May 2025 08:16:40 -0400</pubDate>
-      <guid>http://localhost:1313/tags/scrm/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Security</title>
-      <link>http://localhost:1313/tags/security/</link>
-      <pubDate>Thu, 29 May 2025 08:16:40 -0400</pubDate>
-      <guid>http://localhost:1313/tags/security/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Supply Chain Risk Management</title>
-      <link>http://localhost:1313/tags/supply-chain-risk-management/</link>
-      <pubDate>Thu, 29 May 2025 08:16:40 -0400</pubDate>
-      <guid>http://localhost:1313/tags/supply-chain-risk-management/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
