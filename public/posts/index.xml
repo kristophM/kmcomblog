@@ -11,9 +11,9 @@
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coming soon</title>
-      <link>http://localhost:1313/posts/manage-supply-chain-risk-outsourcing/</link>
+      <link>http://localhost:1313/posts/coming-soon/</link>
       <pubDate>Thu, 29 May 2025 08:16:40 -0400</pubDate>
-      <guid>http://localhost:1313/posts/manage-supply-chain-risk-outsourcing/</guid>
+      <guid>http://localhost:1313/posts/coming-soon/</guid>
       <description>&lt;p&gt;Posts coming soon! I&amp;rsquo;m reworking some of the content.&lt;/p&gt;</description>
     </item>
   </channel>
