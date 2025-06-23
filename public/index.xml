@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Meditations on Cloud Security Architecture</title>
+    <title>Meditations of a Software Architect</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Meditations on Cloud Security Architecture</description>
+    <description>Recent content on Meditations of a Software Architect</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© 2025 Kristoph Matthews</copyright>
@@ -36,13 +36,6 @@
       <pubDate>Thu, 29 May 2025 08:00:15 -0400</pubDate>
       <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/kristoph-full-shot-small.jpg&#34; alt=&#34;Kristoph Matthews&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Me thinking about the latest hyped AI technology!&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a cloud/software architect and engineer with a focus on security. I&amp;rsquo;ve worked for over 15 years in tech, starting from the hardware side of Silicon Valley to building software orgs from the ground up in a wide range of industries/tech (SaaS, crypto, logistics, mobile, e-commerce, defence, big-data, gen AI/ML, etc.). I&amp;rsquo;ve held roles from engineer to CTO and have seen the good, bad, and the ugly of building technology systems and orgs.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Threat Modelling: How to make PASTA in Stride</title>
-      <link>http://localhost:1313/posts/thread-modeling-frameworks/</link>
-      <pubDate>Thu, 29 May 2025 07:24:47 -0400</pubDate>
-      <guid>http://localhost:1313/posts/thread-modeling-frameworks/</guid>
-      <description>&lt;h2 id=&#34;-what-is-threat-modelling-and-why-should-you-care&#34;&gt;🍝 What Is Threat Modelling (and Why Should You Care)?&lt;/h2&gt;&#xA;&lt;p&gt;Imagine you&amp;rsquo;re building a castle. You’ve got walls, a moat, and maybe even a dragon. But how do you know where the weak spots are? That’s where &lt;strong&gt;threat modelling&lt;/strong&gt; comes in.&lt;/p&gt;&#xA;&lt;p&gt;In the world of secure software and IT systems, threat modelling is your blueprint for identifying potential threats &lt;em&gt;before&lt;/em&gt; the bad guys do (or before good guys unintentionally create them). It’s a structured way to ask:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
