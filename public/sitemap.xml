@@ -38,12 +38,6 @@
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-05-29T08:00:15-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/threat-modelling/</loc>
-    <lastmod>2025-05-29T07:24:47-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/thread-modeling-frameworks/</loc>
-    <lastmod>2025-05-29T07:24:47-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>

@@ -1,6 +1,6 @@
 baseURL = 'https://kristophmatthews.com/'
 languageCode = 'en-us'
-title = 'Meditations on Cloud Security Architecture'
+title = 'Meditations of a Software Architect'
 theme = 'hugo-paper'
 
 googleAnalytics = 'G-V85VTFFCTM'
@@ -8,7 +8,7 @@ copyright = '© 2025 Kristoph Matthews'
 
 [params]
   author = 'Kristoph Matthews'
-  description = 'Meditations on Cloud Security Architecture'
+  description = 'Meditations of a Software Architect'
   keywords = ['cloud', 'security', 'architecture']
   themeColor = '#000000'
 
@@ -16,12 +16,12 @@ copyright = '© 2025 Kristoph Matthews'
 
   avatar = 'k@kristophmatthews.com'
   name = 'Kristoph Matthews {•̃_•̃}'
-  bio = 'My stream of consciousness on cloud and software architecture with a focus on security for CISOs, CIOs, DevSecOps leaders, and software engineering managers.'
+  bio = 'My stream of consciousness on cloud and software architecture with a focus on security for CTOs, DevSecOps leaders, and software engineering managers.'
   #bio = 'I design and build software and cloud architecture with a focus on security.'
 
   # Social
   linkedin = 'kristophermatthews'
-  # github = 'kristophM'
+  github = 'kristophM'
 
 [menu]
   [[menu.main]]
@@ -44,3 +44,5 @@ copyright = '© 2025 Kristoph Matthews'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+relativeURLs = true

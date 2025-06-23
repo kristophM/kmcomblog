@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Meditations on Cloud Security Architecture</title>
+    <title>Tags on Meditations of a Software Architect</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Meditations on Cloud Security Architecture</description>
+    <description>Recent content in Tags on Meditations of a Software Architect</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© 2025 Kristoph Matthews</copyright>
@@ -42,13 +42,6 @@
       <link>http://localhost:1313/tags/supply-chain-risk-management/</link>
       <pubDate>Thu, 29 May 2025 08:16:40 -0400</pubDate>
       <guid>http://localhost:1313/tags/supply-chain-risk-management/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Threat Modelling</title>
-      <link>http://localhost:1313/tags/threat-modelling/</link>
-      <pubDate>Thu, 29 May 2025 07:24:47 -0400</pubDate>
-      <guid>http://localhost:1313/tags/threat-modelling/</guid>
       <description></description>
     </item>
   </channel>
