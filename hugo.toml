@@ -44,3 +44,5 @@ copyright = '© 2025 Kristoph Matthews'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+relativeURLs = true
