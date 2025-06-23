@@ -8,25 +8,7 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-05-29T08:16:40-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/outsourcing/</loc>
-    <lastmod>2025-05-29T08:16:40-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-05-29T08:16:40-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/privacy/</loc>
-    <lastmod>2025-05-29T08:16:40-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/scrm/</loc>
-    <lastmod>2025-05-29T08:16:40-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/security/</loc>
-    <lastmod>2025-05-29T08:16:40-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/supply-chain-risk-management/</loc>
-    <lastmod>2025-05-29T08:16:40-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-05-29T08:16:40-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
@@ -39,5 +21,7 @@
     <lastmod>2025-05-29T08:00:15-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
