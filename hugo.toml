@@ -1,6 +1,6 @@
 baseURL = 'https://kristophmatthews.com/'
 languageCode = 'en-us'
-title = 'Meditations of a Software Architect'
+title = 'Meditations of a CTO'
 theme = 'hugo-paper'
 
 googleAnalytics = 'G-V85VTFFCTM'
@@ -16,12 +16,13 @@ copyright = '© 2025 Kristoph Matthews'
 
   avatar = 'k@kristophmatthews.com'
   name = 'Kristoph Matthews {•̃_•̃}'
-  bio = 'My stream of consciousness on cloud and software architecture with a focus on security for CTOs, DevSecOps leaders, and software engineering managers.'
+  bio = "I'm a fractional CTO for purpose-driven startups. This is a place for me to meditate and share wisdom on building technologies and teams."
   #bio = 'I design and build software and cloud architecture with a focus on security.'
 
   # Social
   linkedin = 'kristophermatthews'
   github = 'kristophM'
+  twitter = 'kristophm'
 
 [menu]
   [[menu.main]]

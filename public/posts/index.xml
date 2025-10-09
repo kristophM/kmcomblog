@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Meditations of a Software Architect</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Meditations of a Software Architect</description>
+    <title>Posts on Meditations of a CTO</title>
+    <link>https://kristophmatthews.com/posts/</link>
+    <description>Recent content in Posts on Meditations of a CTO</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© 2025 Kristoph Matthews</copyright>
     <lastBuildDate>Thu, 29 May 2025 08:16:40 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kristophmatthews.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coming soon</title>
-      <link>http://localhost:1313/posts/coming-soon/</link>
+      <link>https://kristophmatthews.com/posts/coming-soon/</link>
       <pubDate>Thu, 29 May 2025 08:16:40 -0400</pubDate>
-      <guid>http://localhost:1313/posts/coming-soon/</guid>
+      <guid>https://kristophmatthews.com/posts/coming-soon/</guid>
       <description>&lt;p&gt;Posts coming soon! I&amp;rsquo;m reworking some of the content.&lt;/p&gt;</description>
     </item>
   </channel>

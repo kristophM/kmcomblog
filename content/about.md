@@ -7,17 +7,17 @@ title = 'About Me'
 ![Kristoph Matthews](/images/kristoph-full-shot-small.jpg)
 >Me thinking about the latest hyped AI technology!
 
-I'm a cloud/software architect and engineer with a focus on security. I've worked for over 15 years in tech, starting from the hardware side of Silicon Valley to building software orgs from the ground up in a wide range of industries/tech (SaaS, crypto, logistics, mobile, e-commerce, defence, big-data, gen AI/ML, etc.). I've held roles from engineer to CTO and have seen the good, bad, and the ugly of building technology systems and orgs.
+I'm a CTO with a focus on early stage, mission-driven startups. I've worked for over 15 years in tech, starting from the hardware side of Silicon Valley to building software orgs from the ground up in a wide range of industries/tech (SaaS, crypto, logistics, mobile, e-commerce, defence, big-data, gen AI/ML, etc.). I've held roles from engineer to CTO and have seen the good, bad, and the ugly of building technology systems and orgs.
 
 ## What I do
 
-I help companies optimise for their business goals while building secure, scalable, and resilient systems. I approach problems with a business mindset but dive into deep tech as needed. This means working end to end from defining business objectives to actually designing and implementing cloud infrastructure and hardening them against the latest threats. 
+I help non-technical, mission-driven founders build their first product, hire their core engineering team, and establish a scalable technical foundation. I help companies optimise for their business goals while building secure, scalable, and resilient systems. I approach problems with a business mindset but dive into deep tech as needed. This means working end to end from defining business objectives to actually designing and implementing scalable platforms and products. 
 
 Examples:
-- Design DevSecOps and secure CI/CD process 
-- Help companies migrate on-prem systems to cloud providers
-- Expand and harden infrastructure to support high availability while reducing costs
-- Meet regulatory requirements and audit standards in a remote/global workforce environment (GDPR, ISO, SOC2, etc.)
+- "0 to 1" MVP: Taking an idea and building the initial product, with market validation of features to hit product market fit
+- Identify needs and build out core team with a strong cultural and technological foundation that can scale
+- Implement scalable infrastructure and process for continuous deployment (CI/CD), project and performance management, and more
+- Harden security and privacy controls to meet regulatory compliance requirements and audit standards in a remote/global workforce environment (GDPR, ISO, SOC2, etc.)
 - Select the best platforms and cloud products to meet business objectives, minimise costs, and reduce risk (e.g. data warehouse and serverless product selection on Google, AWS, Azure, etc.)
 - ...and more!
 
@@ -27,6 +27,7 @@ Check out my [LinkedIn](https://www.linkedin.com/in/kristophermatthews/) for mor
 
 |  |  |
 |------|---------|
+| Arcpoint AI | Founding CTO |
 | NewtonX | CTO, Data Protection Officer, Security Officer |
 | DCPMe | CTO/founder |
 | JPG Quarterly | CTO |
@@ -49,8 +50,9 @@ Check out my [LinkedIn](https://www.linkedin.com/in/kristophermatthews/) for mor
 - **Programming**: Rust, Python, Go, Typescript, Bash, etc.
 - **DevOps**: CI/CD, Docker, Kubernetes, Helm, Terraform,  etc.
 - **AI/ML**: Vertex AI, AWS Sagemaker, LLMs, RAG, etc.
-- **Data**: BigQuery, Elasticsearch, Postgres, etc.
+- **Data**: BigQuery, Elasticsearch, Postgres, Pinot, etc.
 - **Containers**: Docker, Kubernetes, Helm, etc.
+- **Other**: IoT, ebedded systems programming, low level GPU programming
 
 ## What I care about
 
