@@ -19,8 +19,8 @@ This can mean for example (but is not limited to):
 * Tech that helps dogs' lives 
 
 It generally is not: 
-* Blockchains disguised as being altruistic but actually just another tokenisation play
-* B2B SaaS that helps Fortune 500s make more money
+* Blockchains disguised as being altruistic but actually just another token grab (but I'm very interested in truly mission-driven blockchain)
+* B2B SaaS that helps Fortune 500s maximise growth
 * Fast fashion e-commerce
 
 If you're not sure, drop me a line and ask!

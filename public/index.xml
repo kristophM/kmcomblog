@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meditations of a CTO</title>
-    <link>https://kristophmatthews.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Meditations of a CTO</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© 2025 Kristoph Matthews</copyright>
-    <lastBuildDate>Thu, 29 May 2025 08:16:40 -0400</lastBuildDate>
-    <atom:link href="https://kristophmatthews.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Oct 2025 20:42:40 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Coming soon</title>
-      <link>https://kristophmatthews.com/posts/coming-soon/</link>
-      <pubDate>Thu, 29 May 2025 08:16:40 -0400</pubDate>
-      <guid>https://kristophmatthews.com/posts/coming-soon/</guid>
-      <description>&lt;p&gt;Posts coming soon! I&amp;rsquo;m reworking some of the content.&lt;/p&gt;</description>
+      <title>Why I decided to switch to purpose-driven CTO work as a consultant</title>
+      <link>http://localhost:1313/posts/why-i-decided-to-switch-to-purpose-driven-cto-work-as-a-consultant/</link>
+      <pubDate>Thu, 09 Oct 2025 20:42:40 -0400</pubDate>
+      <guid>http://localhost:1313/posts/why-i-decided-to-switch-to-purpose-driven-cto-work-as-a-consultant/</guid>
+      <description>&lt;p&gt;I spent over half a decade as the CTO of a user research company whose job it was to help Fortune 500 companies expand their dominance&#xA;by getting deep intel on users. I made crypto investment vehicles. I built AI technology from the ground up to streamline employees&amp;rsquo; work lives.&lt;/p&gt;&#xA;&lt;p&gt;Did I get to work on amazing technologies, build fantastic teams, and surmount some crazy scaling challenges? YES! I was never bored&#xA;for a second. But something was missing. I&amp;rsquo;m not going to revisit the cliché of the disilusioned developer who laments his&#xA;contribution to unchecked techocapitalism. Capitalism is a good thing when checked, and I&amp;rsquo;m not here to argue that.&#xA;Rather, I was seeing intelligent, critically thinking developers create these super&#xA;impressive platforms and products that just didn&amp;rsquo;t matter (I include myself by the way). They mattered, but for growth&amp;rsquo;s sake.&#xA;But what did &lt;em&gt;that&lt;/em&gt; matter after a point?&#xA;We &lt;a href=&#34;https://xkcd.com/356/&#34;&gt;nerd sniped&lt;/a&gt; ourselves into making charts for certain metrics go up and to the right  (or for just&#xA;figuring out raw, complex problems in general), and got rewarded for it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://kristophmatthews.com/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Thu, 29 May 2025 08:03:56 -0400</pubDate>
-      <guid>https://kristophmatthews.com/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m always happy to chat about new opportunities, consulting, ideas, or just have a coffee and chat with great people! Here&amp;rsquo;s how to get in touch:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:k@kristophmatthews.com&#34;&gt;k (at) kristophmatthews.com&lt;/a&gt; &lt;em&gt;(Definitely put &amp;ldquo;Contact from website&amp;rdquo; or something like that in the subject line so I know you&amp;rsquo;re (probably) not a bot!)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;LinkedIn: &lt;a href=&#34;https://www.linkedin.com/in/kristophermatthews/&#34;&gt;My LinkedIn Profile&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Carrier pigeon&lt;/li&gt;&#xA;&lt;li&gt;Smoke signals&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Work With Me</title>
-      <link>https://kristophmatthews.com/work-with-me/</link>
+      <link>http://localhost:1313/work-with-me/</link>
       <pubDate>Thu, 29 May 2025 08:03:19 -0400</pubDate>
-      <guid>https://kristophmatthews.com/work-with-me/</guid>
+      <guid>http://localhost:1313/work-with-me/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m located in the New York City and upstate NY area and am available for travel/remote enagements.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m currently available for new consulting projects as a fractional CTO, for &lt;strong&gt;mission-driven founders and companies only.&lt;/strong&gt;&#xA;The definition of &amp;ldquo;mission-driven&amp;rdquo; is open ended but generally means you&amp;rsquo;re working on something that is a progressive change&#xA;for humans, animals, and the world.&lt;/p&gt;&#xA;&lt;p&gt;This can mean for example (but is not limited to):&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sustainability and clean energy tech&lt;/li&gt;&#xA;&lt;li&gt;Tech that promotes democracy and combats disinformation&lt;/li&gt;&#xA;&lt;li&gt;Anything cybersecurity&lt;/li&gt;&#xA;&lt;li&gt;Anything that protects privacy and privacy rights&lt;/li&gt;&#xA;&lt;li&gt;AI Healthcare that benefits patients (not insurance companies)&lt;/li&gt;&#xA;&lt;li&gt;Tech that helps dogs&amp;rsquo; lives&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;It generally is not:&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>https://kristophmatthews.com/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 29 May 2025 08:00:15 -0400</pubDate>
-      <guid>https://kristophmatthews.com/about/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://kristophmatthews.com/images/kristoph-full-shot-small.jpg&#34; alt=&#34;Kristoph Matthews&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Me thinking about the latest hyped AI technology!&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a CTO with a focus on early stage, mission-driven startups. I&amp;rsquo;ve worked for over 15 years in tech, starting from the hardware side of Silicon Valley to building software orgs from the ground up in a wide range of industries/tech (SaaS, crypto, logistics, mobile, e-commerce, defence, big-data, gen AI/ML, etc.). I&amp;rsquo;ve held roles from engineer to CTO and have seen the good, bad, and the ugly of building technology systems and orgs.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/kristoph-full-shot-small.jpg&#34; alt=&#34;Kristoph Matthews&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Me thinking about the latest hyped AI technology!&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a CTO with a focus on early stage, mission-driven startups. I&amp;rsquo;ve worked for over 15 years in tech, starting from the hardware side of Silicon Valley to building software orgs from the ground up in a wide range of industries/tech (SaaS, crypto, logistics, mobile, e-commerce, defence, big-data, gen AI/ML, etc.). I&amp;rsquo;ve held roles from engineer to CTO and have seen the good, bad, and the ugly of building technology systems and orgs.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
