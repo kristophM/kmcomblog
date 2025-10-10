@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Meditations of a CTO</title>
-    <link>https://kristophmatthews.com/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Meditations of a CTO</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© 2025 Kristoph Matthews</copyright>
-    <lastBuildDate>Thu, 29 May 2025 08:16:40 -0400</lastBuildDate>
-    <atom:link href="https://kristophmatthews.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Oct 2025 20:42:40 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Coming soon</title>
-      <link>https://kristophmatthews.com/posts/coming-soon/</link>
-      <pubDate>Thu, 29 May 2025 08:16:40 -0400</pubDate>
-      <guid>https://kristophmatthews.com/posts/coming-soon/</guid>
-      <description>&lt;p&gt;Posts coming soon! I&amp;rsquo;m reworking some of the content.&lt;/p&gt;</description>
+      <title>Why I decided to switch to purpose-driven CTO work as a consultant</title>
+      <link>http://localhost:1313/posts/why-i-decided-to-switch-to-purpose-driven-cto-work-as-a-consultant/</link>
+      <pubDate>Thu, 09 Oct 2025 20:42:40 -0400</pubDate>
+      <guid>http://localhost:1313/posts/why-i-decided-to-switch-to-purpose-driven-cto-work-as-a-consultant/</guid>
+      <description>&lt;p&gt;I spent over half a decade as the CTO of a user research company whose job it was to help Fortune 500 companies expand their dominance&#xA;by getting deep intel on users. I made crypto investment vehicles. I built AI technology from the ground up to streamline employees&amp;rsquo; work lives.&lt;/p&gt;&#xA;&lt;p&gt;Did I get to work on amazing technologies, build fantastic teams, and surmount some crazy scaling challenges? YES! I was never bored&#xA;for a second. But something was missing. I&amp;rsquo;m not going to revisit the cliché of the disilusioned developer who laments his&#xA;contribution to unchecked techocapitalism. Capitalism is a good thing when checked, and I&amp;rsquo;m not here to argue that.&#xA;Rather, I was seeing intelligent, critically thinking developers create these super&#xA;impressive platforms and products that just didn&amp;rsquo;t matter (I include myself by the way). They mattered, but for growth&amp;rsquo;s sake.&#xA;But what did &lt;em&gt;that&lt;/em&gt; matter after a point?&#xA;We &lt;a href=&#34;https://xkcd.com/356/&#34;&gt;nerd sniped&lt;/a&gt; ourselves into making charts for certain metrics go up and to the right  (or for just&#xA;figuring out raw, complex problems in general), and got rewarded for it.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
