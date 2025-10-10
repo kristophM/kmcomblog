@@ -4,7 +4,7 @@ draft = false
 title = 'Work With Me'
 +++
 
-I'm located in the New York City and upstate NY area and am available for travel/remote enagements. 
+I'm located in the New York City and upstate NY area and am available for travel/remote engagements. 
 
 I'm currently available for new consulting projects as a fractional CTO, for **mission-driven founders and companies only.**
 The definition of "mission-driven" is open ended but generally means you're working on something that is a progressive change 
