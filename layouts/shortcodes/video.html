@@ -1,0 +1,10 @@
+{{- /* Muted, looping, inline video. Usage: {{< video src="/videos/name" caption="..." >}} (no extension; .webm and .mp4 are both served) */ -}}
+<figure class="my-6">
+  <video class="mx-auto rounded-lg" style="max-height: 480px" autoplay muted loop playsinline preload="metadata"{{ with .Get "poster" }} poster="{{ . }}"{{ end }}>
+    <source src="{{ .Get "src" }}.webm" type="video/webm">
+    <source src="{{ .Get "src" }}.mp4" type="video/mp4">
+  </video>
+  {{- with .Get "caption" }}
+  <figcaption class="text-center text-sm opacity-70">{{ . }}</figcaption>
+  {{- end }}
+</figure>
