@@ -1,6 +1,6 @@
 +++
-date = '2026-10-12T18:29:47-04:00'
-draft = true
+date = '2026-10-12T19:03:59-04:00'
+draft = false
 title = 'Setting up a UPS and NUT for stable local agents'
 tags = ['ai', 'experiments', 'reliability']
 mermaid = true
